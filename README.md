@@ -1,9 +1,7 @@
 # CTS-TWAS: Cell-type-speciffic Transcriptomic-wide Association Studies
 ### An omnibus transcriptomic-wide association study (TWAS) using cell-type-specific snRNA-seq data and integrating multiple statistical methods
 
-![image](https://github.com/Leo-LiuQiang/CTS-TWAS/blob/main/xWAS-O framework.png)
-
-## How It's Made:
+![image](https://github.com/Leo-LiuQiang/CTS-TWAS/blob/main/xWAS-O%20framework.png)
 
 ### Reference
 
