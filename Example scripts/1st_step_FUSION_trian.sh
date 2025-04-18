@@ -28,12 +28,12 @@ do
 	--bfile $b_dir \
 	--tmp $tmp_dir \
 	--out $out_dir \
-  --hsq_p 1.5 \
-  --hsq_set 0.01\
+    --hsq_p 1.5 \
+    --hsq_set 0.01\
 	--PATH_plink $path_to_plink \
 	--PATH_gcta $path_to_gcta \
 	--PATH_gemma $path_to_gemma \
 	--models top1,lasso,enet,blup \
-  --save_hsq TRUE
+    --save_hsq TRUE
 
 done 
